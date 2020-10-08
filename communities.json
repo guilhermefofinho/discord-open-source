@@ -1,5 +1,12 @@
 {
   "data": [
+{
+  "logo": "dvc.svg",
+  "title": "Name of your project",
+  "quote": "Optional: A short quote about how you use Discord for your project.",
+  "quoteSourceUrl": "Optional: An optional source for the quote.",
+  "inviteCode": "Lori",
+}
     {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
